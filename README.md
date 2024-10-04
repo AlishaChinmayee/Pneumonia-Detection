@@ -1,5 +1,6 @@
 
-# Capstone_Project
+# Pneumonia Detection
+
 
 ## flask/gunicorn based Heroku web app for pneumonia detection
 
